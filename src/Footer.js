@@ -5,7 +5,7 @@ class Footer extends React.Component{
     }
 }
 
-function App(){
+function Footer(){
     return(
     <div>
     <small>
@@ -14,4 +14,4 @@ function App(){
     </div>
     );
 }
-export default App;
+export default Footer;
